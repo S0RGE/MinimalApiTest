@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\DotNet\\MinimalApi\\HotelsWebApi\\HotelsWebApi.csproj": {}
+    "K:\\DotNet\\MinimalApiTest\\minimalapitest\\HotelsWebApi.csproj": {}
   },
   "projects": {
-    "K:\\DotNet\\MinimalApi\\HotelsWebApi\\HotelsWebApi.csproj": {
+    "K:\\DotNet\\MinimalApiTest\\minimalapitest\\HotelsWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\DotNet\\MinimalApi\\HotelsWebApi\\HotelsWebApi.csproj",
+        "projectUniqueName": "K:\\DotNet\\MinimalApiTest\\minimalapitest\\HotelsWebApi.csproj",
         "projectName": "HotelsWebApi",
-        "projectPath": "K:\\DotNet\\MinimalApi\\HotelsWebApi\\HotelsWebApi.csproj",
+        "projectPath": "K:\\DotNet\\MinimalApiTest\\minimalapitest\\HotelsWebApi.csproj",
         "packagesPath": "C:\\Users\\vital\\.nuget\\packages\\",
-        "outputPath": "K:\\DotNet\\MinimalApi\\HotelsWebApi\\obj\\",
+        "outputPath": "K:\\DotNet\\MinimalApiTest\\minimalapitest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vital\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://www.nuget.org/api/v2/": {}

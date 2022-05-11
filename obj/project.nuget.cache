@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "78NL3w3PHurdrzmC+6PwXUhDEem4slMutNNEbi0V1AOoEXEOLgB5jhkEycn8XvVY0mt4pX+ko2/sNU6fRNZ9aA==",
+  "dgSpecHash": "4T1kdNqOYDpjc4pW5q5IsZ7qicqzVuTcKqHqhbHK/NLYKSjqKxMoeu6fv2L6xtEa/onbu76RSoGz4CrwDc8mVQ==",
   "success": true,
-  "projectFilePath": "K:\\DotNet\\MinimalApi\\HotelsWebApi\\HotelsWebApi.csproj",
+  "projectFilePath": "K:\\DotNet\\MinimalApiTest\\minimalapitest\\HotelsWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vital\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.4\\microsoft.data.sqlite.core.6.0.4.nupkg.sha512",
     "C:\\Users\\vital\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
