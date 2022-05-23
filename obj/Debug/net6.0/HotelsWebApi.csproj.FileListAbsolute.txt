@@ -92,3 +92,8 @@ K:\DotNet\MinimalApiTest\MinimalApiTest\obj\Debug\net6.0\refint\HotelsWebApi.dll
 K:\DotNet\MinimalApiTest\MinimalApiTest\obj\Debug\net6.0\HotelsWebApi.pdb
 K:\DotNet\MinimalApiTest\MinimalApiTest\obj\Debug\net6.0\HotelsWebApi.genruntimeconfig.cache
 K:\DotNet\MinimalApiTest\MinimalApiTest\obj\Debug\net6.0\ref\HotelsWebApi.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\obj\Debug\net6.0\HotelsWebApi.MvcApplicationPartsAssemblyInfo.cs
