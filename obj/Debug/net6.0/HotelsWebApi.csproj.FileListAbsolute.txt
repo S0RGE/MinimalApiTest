@@ -97,3 +97,11 @@ K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.
 K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 K:\DotNet\MinimalApiTest\MinimalApiTest\obj\Debug\net6.0\HotelsWebApi.MvcApplicationPartsAssemblyInfo.cs
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+K:\DotNet\MinimalApiTest\MinimalApiTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
